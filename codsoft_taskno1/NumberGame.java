@@ -3,7 +3,7 @@ package number_game;
 
 import java.util.Scanner;
 
-public class Number_game {
+public class NumberGame {
 
     public static void main(String[] args) 
     {
