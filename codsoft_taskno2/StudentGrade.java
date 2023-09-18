@@ -3,7 +3,7 @@ package student_grade;
 
 import java.util.Scanner;
 
-public class Student_grade {
+public class StudentGrade {
 
     
     public static void main(String[] args) {
